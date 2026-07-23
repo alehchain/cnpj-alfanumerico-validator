@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net8.0;netstandard2.0</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageId>CnpjAlfanumericoValidator</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Alexandre Chain</Authors>
+    <Description>Validação, formatação e geração de CNPJ numérico e alfanumérico em C#.</Description>
+    <PackageTags>cnpj;cnpj-alfanumerico;validator;brazil;document</PackageTags>
+    <RepositoryUrl>https://github.com/alehchain/cnpj-alfanumerico-validator</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>

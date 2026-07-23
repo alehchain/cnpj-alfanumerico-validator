@@ -1,3 +1,5 @@
+using Xunit;
+
 namespace CnpjAlfanumericoValidator.Tests;
 
 public class CnpjValidatorTests
